@@ -1,8 +1,6 @@
 ### Hello there!
-### I'm Ady. I'm a CS student from India, currently learning how to Git. 
-### I'm also brushing up programming skills from my undergrad. 
-### I make jewellery on occasion, when I have some time. 
-### Have a lovely day/night. :)
+### I'm Ady.
+### I'm currently working to become a web developer.
 <!--
 **adelicia-js/adelicia-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
