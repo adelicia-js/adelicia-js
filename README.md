@@ -1,5 +1,4 @@
-### Hello there!
-### I'm Ady.
+### Hello there! I'm Ady.
 ### I'm currently working to become a web developer.
 <!--
 **adelicia-js/adelicia-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
