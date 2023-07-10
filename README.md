@@ -1,5 +1,6 @@
 ### Hello there! I'm Ady.
-### I'm currently working to become a web developer.
+### I'm a web developer, with a passion for building beautiful UI.
+### Currently going through the MERN stack, TypeScript, refining existing frontend skills & hoping to get into learning some data science. :)   
 <!--
 **adelicia-js/adelicia-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
