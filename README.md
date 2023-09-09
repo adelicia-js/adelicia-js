@@ -1,23 +1,23 @@
 # About Me
 
-🌺 [My Personal Site](https://adelicia-js.com/) &nbsp; &nbsp; &nbsp;
+🌺 [My Personal Site](https://adelicia-js.com/) &nbsp; &nbsp;
 💼 [LinkedIn Profile](https://www.linkedin.com/in/adelicia) &nbsp; &nbsp; &nbsp;
 
 ### Education
 
-🎓 M.Sc. Computer Science, St. Joseph's University, Bengaluru
+👩🏽‍🎓 M.Sc. Computer Science, St. Joseph's University, Bengaluru
 
 ### Summary
 
-Web developer, with a passion for building beautiful UI and smooth user experiences. 
+👩🏽‍💻 Web developer, with a passion for building beautiful UI and smooth user experiences. 
 
-Currently going through the MERN stack, TypeScript, data science concepts and databases.  
+✍🏽 Currently going through the MERN stack, TypeScript, data science concepts and databases.  
 
 ### Technical Skills
 
 #### Programming Languages
 
-👩🏽‍💻 JavaScript | Java | Python | SQL (MySQL) | C | TypeScript | R
+🔡 JavaScript | Java | Python | SQL (MySQL) | C | TypeScript | R
 
 #### Frameworks & Libraries
 
