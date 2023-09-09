@@ -1,17 +1,28 @@
-### Hello there! I'm Ady.
-### I'm a web developer, with a passion for building beautiful UI.
-### Currently going through the MERN stack, TypeScript, refining existing frontend skills & hoping to get into learning some data science. :)   
-<!--
-**adelicia-js/adelicia-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+🌺 [My Personal Site](https://adelicia-js.com/) &nbsp; &nbsp; &nbsp;
+💼 [LinkedIn Profile](https://www.linkedin.com/in/adelicia) &nbsp; &nbsp; &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+
+🎓 M.Sc. Computer Science, St. Joseph's University, Bengaluru
+
+### Summary
+
+Web developer, with a passion for building beautiful UI and smooth user experiences. 
+
+Currently going through the MERN stack, TypeScript, data science concepts and databases.  
+
+### Technical Skills
+
+#### Programming Languages
+
+👩🏽‍💻 JavaScript | Java | Python | SQL (MySQL) | C | TypeScript | R
+
+#### Frameworks & Libraries
+
+⚛️ React | Next.js | Tailwind CSS | Bootstrap | Material-UI | Vite | MDB
+
+### Developer & Misc. Tools
+
+🛠️ Figma | Vercel | Git/Github | Cloudflare DNS/Pages | Firebase Hosting | Google Colab | Eclipse | Android Studio
