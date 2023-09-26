@@ -24,6 +24,6 @@
 
 ⚛️ React | Next.js | Tailwind CSS | Bootstrap | Material-UI | Vite | MDB
 
-### Developer & Misc. Tools
+#### Developer & Misc. Tools
 
 🛠️ Figma | Vercel | Git/Github | Cloudflare DNS/Pages | Firebase Hosting | Google Colab | Eclipse | Android Studio
