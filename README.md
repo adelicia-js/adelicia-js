@@ -2,7 +2,7 @@
 
 🌺 [My Personal Site](https://adelicia-js.com/) &nbsp; &nbsp;
 💼 [LinkedIn Profile](https://www.linkedin.com/in/adelicia) &nbsp; &nbsp; &nbsp;
-📄 [My Resume](https://www.adelicia-js.com/ady-resume.pdf) &nbsp; &nbsp; &nbsp;
+📄 [My Resume](https://adelicia-js.com/ady-resume.pdf) &nbsp; &nbsp; &nbsp;
 
 ### Education
 
