@@ -2,7 +2,7 @@
 
 🌺 [My Personal Site](https://adelicia-js.com/) &nbsp; &nbsp;
 💼 [LinkedIn Profile](https://www.linkedin.com/in/adelicia) &nbsp; &nbsp; &nbsp;
-📄 [My Resume](https://adelicia-js.com/ady-resume.pdf) &nbsp; &nbsp; &nbsp;
+📄 [My Resume](https://home-266.pages.dev/ady-resume.pdf) &nbsp; &nbsp; &nbsp;
 
 ### Education
 
@@ -22,8 +22,8 @@
 
 #### Frameworks & Libraries
 
-⚛️ React | Next.js | Tailwind CSS | Bootstrap | Material-UI | Vite | MDB
+⚛️ React | Next.js | Tailwind CSS | Bootstrap | Material-UI | Vite | MDB | Django | Flask | htmx
 
 #### Developer & Misc. Tools
 
-🛠️ Figma | Vercel | Git/Github | Cloudflare DNS/Pages | Firebase Hosting | Google Colab | Eclipse | Android Studio
+🛠️ Figma | Vercel | Git/Github | Cloudflare DNS/Pages | Firebase Hosting | Google Colab | Eclipse | Android Studio | Google App Engine | Gunicorn
