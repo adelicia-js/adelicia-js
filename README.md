@@ -12,6 +12,8 @@
 
 👩🏽‍💻 Web developer, with a passion for building beautiful UI and smooth user experiences. 
 
+🏢 Working as a software developer intern at [Nimbly Technologies](https://hellonimbly.com/).
+
 ✍🏽 Currently going through the MERN stack, TypeScript, data science concepts and databases.  
 
 ### Technical Skills
