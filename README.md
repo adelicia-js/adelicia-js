@@ -13,7 +13,7 @@
 
 👩🏽‍💻 Web developer, with a passion for building beautiful UI and smooth user experiences. 
 
-🏢 Working as a software developer intern at [Nimbly Technologies](https://hellonimbly.com/).
+🏢 Working as a frontend engineer at [Nimbly Technologies](https://hellonimbly.com/).
 
 ✍🏽 Currently going through the MERN stack, TypeScript, data science concepts and databases.  
 
@@ -25,7 +25,7 @@
 
 #### Frameworks & Libraries
 
-⚛️ React | Next.js | Tailwind CSS | Redux | Bootstrap | Material-UI | Vite | MDB | Django | Flask | htmx
+⚛️ React | React Native | Next.js | Tailwind CSS | Redux | Bootstrap | Material-UI | Vite | MDB | Django | Flask | htmx
 
 #### Developer & Misc. Tools
 
