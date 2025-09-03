@@ -3,7 +3,6 @@
 🌺 [My Personal Site](https://adelicia-js.com/) &nbsp; &nbsp;
 💼 [LinkedIn Profile](https://www.linkedin.com/in/adelicia) &nbsp; &nbsp; &nbsp;
 📄 [My Resume](https://adelicia-js.com/ady-resume.pdf) &nbsp; &nbsp; &nbsp;
-👩🏻‍💻 [Work GitHub](https://github.com/adelicia-nimbly) &nbsp; &nbsp; &nbsp;
 
 ### Education
 
@@ -11,25 +10,25 @@
 
 ### Summary
 
-👩🏽‍💻 Web developer, with a passion for building beautiful UI and smooth user experiences. 
+👩🏽‍💻 I carry a passion for building beautiful UI and smooth user experiences. 
 
-🏢 Working as a frontend engineer at [Nimbly Technologies](https://hellonimbly.com/).
+🏢 Full-stack developer with experience in modern web technologies and collaborative development.
 
-✍🏽 Currently going through the MERN stack, TypeScript, data science concepts and databases.  
+✍🏽 Experienced in building full-stack applications with React, Next.js, TypeScript, Node.js, and modern database solutions including Supabase, MongoDB Atlas and Prisma ORM. 
 
 ### Technical Skills
 
 #### Programming Languages
 
-🔡 JavaScript | Java | Python | SQL (MySQL) | C | TypeScript | R
+🔡 JavaScript | TypeScript | Java | Python | SQL (MySQL) | C | R
 
 #### Frameworks & Libraries
 
-⚛️ React | React Native | Next.js | Tailwind CSS | Redux | Bootstrap | Material-UI | Vite | MDB | Django | Flask | htmx
+⚛️ React | Next.js | Vite | TypeScript | Node.js/Express | Tailwind CSS | styled-components | Redux | Supabase | Prisma ORM | Bootstrap | Material-UI | Django | Flask | htmx
 
 #### Developer & Misc. Tools
 
-🛠️ Figma | Vercel | Git/GitHub | Cloudflare DNS/Pages | Eclipse | Android Studio | Google App Engine | Gunicorn
+🛠️ Figma | Vercel | Git/GitHub | VS Code | ESLint | Prisma Studio | Supabase Dashboard | Cloudflare DNS/Pages | JWT Authentication | bcrypt | CORS | Eclipse | Android Studio
 
 
 ### 📊 GitHub Stats:
