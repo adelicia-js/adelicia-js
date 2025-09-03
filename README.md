@@ -12,23 +12,23 @@
 
 👩🏽‍💻 I carry a passion for building beautiful UI and smooth user experiences. 
 
-🏢 Full-stack developer with experience in modern web technologies and collaborative development.
+🏢 Full-stack Developer with enterprise SaaS experience, delivering production applications serving 15,000+ users across web and mobile platforms.
 
-✍🏽 Experienced in building full-stack applications with React, Next.js, TypeScript, Node.js, and modern database solutions including Supabase, MongoDB Atlas and Prisma ORM. 
+✍🏽 Proven track record of 50,000+ lines of production code, fixing 60+ critical bugs, and expertise in React, Next.js, TypeScript, Node.js, React Native, and enterprise-scale performance optimization. 
 
 ### Technical Skills
 
 #### Programming Languages
 
-🔡 JavaScript | TypeScript | Java | Python | SQL (MySQL) | C | R
+🔡 JavaScript | TypeScript | Java | Python | SQL (PostgreSQL, MySQL) | C | R
 
 #### Frameworks & Libraries
 
-⚛️ React | Next.js | Vite | TypeScript | Node.js/Express | Tailwind CSS | styled-components | Redux | Supabase | Prisma ORM | Bootstrap | Material-UI | Django | Flask | htmx
+⚛️ React | React Native | Next.js | Redux/Redux Saga | Vite | TypeScript | Node.js/Express | Tailwind CSS | styled-components | Supabase | Prisma ORM | Chart.js | Bootstrap | Material-UI | Django | Flask | htmx
 
 #### Developer & Misc. Tools
 
-🛠️ Figma | Vercel | Git/GitHub | VS Code | ESLint | Prisma Studio | Supabase Dashboard | Cloudflare DNS/Pages | JWT Authentication | bcrypt | CORS | Eclipse | Android Studio
+🛠️ Chrome DevTools | Figma | Vercel | Git/GitHub/Bitbucket | VS Code | ESLint | Expo EAS | React DevTools | Prisma Studio | Supabase Dashboard | JWT Authentication | bcrypt | CORS | Jest | Sentry | Webpack | Metro
 
 
 ### 📊 GitHub Stats:
