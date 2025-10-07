@@ -10,7 +10,9 @@
 
 ### Summary
 
-👩🏽‍💻 I carry a passion for building beautiful UI and smooth user experiences. 
+🎨 I carry a passion for building beautiful UI and smooth user experiences. 
+
+👩🏽‍💻 Working as a frontend developer at [Wind Pioneers](https://wind-pioneers.com/).
 
 🏢 Full-stack Developer with enterprise SaaS experience, delivering production applications serving 15,000+ users across web and mobile platforms.
 
