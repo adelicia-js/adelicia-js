@@ -33,14 +33,14 @@
 🛠️ Chrome DevTools | Figma | Vercel | Git/GitHub/Bitbucket | VS Code | ESLint | Expo EAS | React DevTools | Prisma Studio | Supabase Dashboard | JWT Authentication | bcrypt | CORS | Jest | Sentry | Webpack | Metro
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adelicia-js&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=adelicia-js&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=adelicia-js&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adelicia-js&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=adelicia-js&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adelicia-js&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
+<!-- ### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adelicia-js&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4) -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adelicia-js&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adelicia-js&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
